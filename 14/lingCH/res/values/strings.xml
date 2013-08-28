@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">DotaBell</string>
+    <string name="startButton">设置铃声</string>
+    <string name="endButton">解除铃声</string>
+    <string name="configButton">配置</string>
+    <string name="interval">间隔时间</string>
+    <string name="interval_summary">点击设置间隔时间</string>
+</resources>

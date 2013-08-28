@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resources> 
+  <string name="hello"></string> 
+  <string name="app_name"></string> 
+  <string name="str_context1">宽</string> 
+  <string name="str_context2">高</string>
+  <string name="str_context3">宽和高</string>
+  <string name="str_width">宽:</string> 
+  <string name="str_height">高:</string>  
+</resources> 
+

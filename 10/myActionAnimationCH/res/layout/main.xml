@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+android:id="@+id/widget32"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<TextView
+android:id="@+id/widget29"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:text="@string/hello"
+android:layout_x="0px"
+android:layout_y="0px"
+>
+</TextView>
+<Button
+android:id="@+id/button_Alpha"
+android:layout_width="150px"
+android:layout_height="150px"
+android:text="Alpha"
+android:textSize="50px"
+android:layout_x="0px" android:layout_y="30px">
+</Button>
+<Button
+android:id="@+id/button_Scale"
+android:layout_width="150px"
+android:layout_height="150px"
+android:text="Scale"
+android:textSize="50px"
+android:layout_x="0px" android:layout_y="180px">
+</Button>
+<Button
+android:layout_width="150px"
+android:layout_height="150px"
+android:text="Translate"
+android:layout_x="161px" android:layout_y="30px" android:textSize="30px" android:id="@+id/button_Translate">
+</Button>
+<Button
+android:id="@+id/button_Rotate"
+android:layout_width="150px"
+android:layout_height="150px"
+android:text="Rotate"
+android:layout_y="180px" android:layout_x="161px" android:textSize="44px">
+</Button>
+
+</AbsoluteLayout>

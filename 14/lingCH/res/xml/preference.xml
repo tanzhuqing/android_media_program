@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:title="@string/configButton">
+  <ListPreference
+  	android:key="interval_config"
+  	android:title="@string/interval"
+  	android:entries="@array/interval_entry"
+  	android:entryValues="@array/interval_value"
+  	android:dialogTitle="@string/interval"
+  	android:summary="@string/interval_summary">
+  </ListPreference>
+</PreferenceScreen>

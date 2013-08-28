@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="hello"></string>
+  <string name="app_name"></string>
+  <string name="str_button1">播放影片1</string>
+  <string name="str_button2">播放影片2</string>
+  <string name="str_playing">播放中...</string>
+  <string name="str_complete">播放完毕</string>
+  <string name="str_err_nosd">※未安装SD卡※</string>
+</resources>

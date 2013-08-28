@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">音乐播放器</string>
+     
+    <string name="no_files">该目录为空</string>
+	<string name="to_top">[...]</string>
+	
+</resources>

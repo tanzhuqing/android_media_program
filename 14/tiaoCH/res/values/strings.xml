@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resources> 
+  <string name="hello"></string> 
+  <string name="app_name"></string> 
+  <string name="str_text1">模式</string> 
+  <string name="str_text2">大小</string> 
+</resources>

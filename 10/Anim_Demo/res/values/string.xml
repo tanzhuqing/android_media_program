@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">API_demo</string>
+    <string name="app_name">xh</string>
+    <string name="animation_1_instructions">Please enter your password:</string>
+    <string name="googlelogin_login">Login</string>
+</resources>

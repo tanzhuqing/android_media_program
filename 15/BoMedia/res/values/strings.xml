@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="hello"></string>
+  <string name="app_name"></string>
+  <string name="str_play">播放中...</string>
+  <string name="str_done">播放完毕...</string>
+  <string name="str_pause">暂停</string>
+  <string name="str_stop">停止</string>
+  <string name="str_err_nosd">※没有安装SD存储卡※</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="hello">MediaPlayer</string>
+  <string name="app_name">MediaPlayer</string>
+  <string name="str_play">播放中</string>
+  <string name="str_pause">暂停中</string>
+  <string name="str_stop">停止中</string>
+</resources>

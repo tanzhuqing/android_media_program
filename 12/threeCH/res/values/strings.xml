@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello"></string>
+    <string name="app_name"></string>
+    <string name="act_name">绘制了一个三角形</string>
+</resources>
